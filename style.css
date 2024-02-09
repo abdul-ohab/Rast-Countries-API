@@ -1,0 +1,11 @@
+
+#country-list{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.county{
+    border: 1px solid blueviolet;
+}
+
